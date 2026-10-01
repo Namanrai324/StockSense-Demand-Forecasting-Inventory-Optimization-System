@@ -29,7 +29,6 @@ Python (pandas, numpy, statsmodels), Power BI, DAX.
 
 ## Dashboard
 ![StockSense Summary Dashboard](dashboard/screenshots/page1_summary.png)
-*(Note: Upload your Power BI screenshots to the `dashboard/screenshots/` folder so they render here!)*
 
 ## What I'd do with more time
 - Incorporate live supplier delivery tracking to dynamically adjust Lead Time assumptions instead of using a static 2-day average.
